@@ -1,8 +1,13 @@
-# shui
+# B1 手机端 
 
 > A Vue.js project
+## Git 地址
 
-## Build Setup
+```shell
+$ git clone https://github.com/liubaiye/B1mobile.git
+```
+
+## Build Setup 安装依赖
 
 ``` bash
 # install dependencies
